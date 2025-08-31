@@ -22,3 +22,6 @@ Authored and published an article for Rowan University’s Cybersecurity Awarene
 
    <img width="1238" height="686" alt="gen ai" src="https://github.com/user-attachments/assets/c0603699-fb28-42b6-9941-26118dd8b786" /><br>
    *Ref 1: Gen-AI Article*
+
+## Final Deliverable
+- [Generative AI Article](https://github.com/sylenajb/Gen-AI-Cybersecurity-Article-/blob/main/GenAI%20boosts%20hackers'%20trickery_%20Are%20you%20prepared_.pdf)
